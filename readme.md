@@ -35,7 +35,7 @@
 
    <img src="Assets/Images/DWresume.png">
 
-   <img src="Assets/Images/DWcontacts">
+   <img src="Assets/Images/DWcontacts.png">
 
    <h3>Preview of the HTML</h3>
 

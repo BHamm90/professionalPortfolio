@@ -17,7 +17,7 @@
       <li>Show the user examples of my capabilities through past projects.</li>
       <li>Webpage should be responsive.</li>
       <li>Update my LinkedIn, Github, and Resume with the most current information and current projects</li>
-   <ol>
+   </ol>
 
    <h2>Website Deployment</h2>
 

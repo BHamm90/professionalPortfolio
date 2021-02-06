@@ -1,0 +1,70 @@
+.background-image1
+{
+    background-image: url('../Images/Background.jpg');
+}
+.nav
+{
+    background-color: steelblue;
+    color: whitesmoke;
+}
+.Horiseon
+{
+    max-height: 300px;
+    max-width: 300px;
+}
+.self
+{
+    max-width: 400px;
+    max-height: 400px;
+    image-rendering: crisp-edges;
+}
+.CQ
+{
+    max-height: 300px;
+    max-width: 300px; 
+}
+.EDP
+{
+    max-height: 300px;
+    max-width: 300px;
+}
+.card
+{
+    background-color: steelblue;
+    color: whitesmoke;
+    max-height: fit-content;
+    max-width: fit-content;
+}
+.adjustment
+{
+    align-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.Logo
+{
+    max-height: 200px;
+    max-width: 200px;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.Logo2
+{
+    max-height: 130px;
+    max-width: 130px;  
+    margin-right: 5%;
+    margin-bottom: 5%;  
+}
+.links
+{
+    color: whitesmoke;
+}
+.links2
+{
+    color: whitesmoke;
+    margin-left: 10%;
+}
+body
+{
+font-family: 'Playfair Display', serif;
+}

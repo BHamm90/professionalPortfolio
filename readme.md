@@ -29,17 +29,21 @@
 
    <h3>Website Preview:</h3>
 
-   <img src="">
+   <img src="Assets/Images/DWabout.png">
 
-   <img src="">
+   <img src="Assets/Images/DWprojects.png">
 
-   <img src="">
+   <img src="Assets/Images/DWresume.png">
 
-   <img src="">
+   <img src="Assets/Images/DWcontacts">
+
+   <h3>Preview of the HTML</h3>
+
+   <img src="Assets/Images/DWhtml.png">
 
    <h3>Preview of the CSS</h3>
 
-   <img src="">
+   <img src="Assets/Images/DWcss.png">
 
    <h4>Looking Forward: </h4>
 
